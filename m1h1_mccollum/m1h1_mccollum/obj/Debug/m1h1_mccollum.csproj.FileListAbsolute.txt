@@ -1,0 +1,7 @@
+G:\Programming\C_Sharp\m1h1_mccollum\m1h1_mccollum\bin\Debug\m1h1_mccollum.exe.config
+G:\Programming\C_Sharp\m1h1_mccollum\m1h1_mccollum\bin\Debug\m1h1_mccollum.exe
+G:\Programming\C_Sharp\m1h1_mccollum\m1h1_mccollum\bin\Debug\m1h1_mccollum.pdb
+G:\Programming\C_Sharp\m1h1_mccollum\m1h1_mccollum\obj\Debug\m1h1_mccollum.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\m1h1_mccollum\m1h1_mccollum\obj\Debug\m1h1_mccollum.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\m1h1_mccollum\m1h1_mccollum\obj\Debug\m1h1_mccollum.exe
+G:\Programming\C_Sharp\m1h1_mccollum\m1h1_mccollum\obj\Debug\m1h1_mccollum.pdb
