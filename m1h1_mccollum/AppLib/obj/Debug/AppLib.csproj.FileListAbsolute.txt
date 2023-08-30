@@ -1,6 +1,0 @@
-G:\Programming\C_Sharp\m1h1_mccollum\AppLib\bin\Debug\AppLib.dll
-G:\Programming\C_Sharp\m1h1_mccollum\AppLib\bin\Debug\AppLib.pdb
-G:\Programming\C_Sharp\m1h1_mccollum\AppLib\obj\Debug\AppLib.csproj.AssemblyReference.cache
-G:\Programming\C_Sharp\m1h1_mccollum\AppLib\obj\Debug\AppLib.csproj.CoreCompileInputs.cache
-G:\Programming\C_Sharp\m1h1_mccollum\AppLib\obj\Debug\AppLib.dll
-G:\Programming\C_Sharp\m1h1_mccollum\AppLib\obj\Debug\AppLib.pdb
